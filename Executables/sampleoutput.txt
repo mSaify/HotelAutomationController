@@ -1,0 +1,116 @@
+Creating Hotel..
+Enter Number of Floors
+2
+Main Corridors per floor
+1
+Sub Corridors per floor
+2
+
+ Motion Sensor and Controller Installed!!!
+
+ Sensing Changes!!
+
+ Night Time Default State!!
+
+
+Floor 1
+         Main Corridor 1
+                  Light 1 : ON
+                  AC 1 : ON
+         Sub Corridor 1
+                  Light 1 : OFF
+                  AC 1 : ON
+         Sub Corridor 2
+                  Light 2 : OFF
+                  AC 2 : ON
+Floor 2
+         Main Corridor 1
+                  Light 1 : ON
+                  AC 1 : ON
+         Sub Corridor 1
+                  Light 1 : OFF
+                  AC 1 : ON
+         Sub Corridor 2
+                  Light 2 : OFF
+                  AC 2 : ON
+
+
+Enter sensed MovementType
+1 for Movement
+2 for No Movement
+1
+
+Enter location:
+Which floor? (e.g. 1 or 2)
+1
+Which subcorridor? (e.g. 1 or 2)
+2
+
+
+Movement in Floor 1, Sub Corridor 2
+
+
+Floor 1
+         Main Corridor 1
+                  Light 1 : ON
+                  AC 1 : ON
+         Sub Corridor 1
+                  Light 1 : OFF
+                  AC 1 : OFF
+         Sub Corridor 2
+                  Light 2 : ON
+                  AC 2 : ON
+Floor 2
+         Main Corridor 1
+                  Light 1 : ON
+                  AC 1 : ON
+         Sub Corridor 1
+                  Light 1 : OFF
+                  AC 1 : ON
+         Sub Corridor 2
+                  Light 2 : OFF
+                  AC 2 : ON
+
+
+ Do you want to sense more action?(Y(y)/N(n))
+y
+
+
+Enter sensed MovementType
+1 for Movement
+2 for No Movement
+2
+
+Enter location:
+Which floor? (e.g. 1 or 2)
+1
+Which subcorridor? (e.g. 1 or 2)
+2
+
+
+No Movement in Floor 1, Sub Corridor 2
+
+
+Floor 1
+         Main Corridor 1
+                  Light 1 : ON
+                  AC 1 : ON
+         Sub Corridor 1
+                  Light 1 : OFF
+                  AC 1 : ON
+         Sub Corridor 2
+                  Light 2 : OFF
+                  AC 2 : ON
+Floor 2
+         Main Corridor 1
+                  Light 1 : ON
+                  AC 1 : ON
+         Sub Corridor 1
+                  Light 1 : OFF
+                  AC 1 : ON
+         Sub Corridor 2
+                  Light 2 : OFF
+                  AC 2 : ON
+
+
+ Do you want to sense more action?(Y(y)/N(n))
